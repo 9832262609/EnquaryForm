@@ -1,0 +1,27 @@
+.containre{
+  width: 400px;
+  margin: 20px;
+}
+.namet{
+  width: 1400px;
+  margin: auto;
+}
+.pc{
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+.pc button{
+  border: none;
+  /* border: 1px solid black; */
+  padding: 2px 10px;
+  border-radius: 5px;
+}
+.dlet{
+  background-color: red;
+  color: white;
+}
+.upda{
+  background-color: green;
+  color: white;
+}
